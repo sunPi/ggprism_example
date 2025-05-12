@@ -2,6 +2,9 @@
 
 This is a repository that holds a script of examples and guides on how to use "ggprism" package in R, to produce Prism-like figures. 
 
+![example_violiin](https://github.com/user-attachments/assets/c8a0316c-dcf3-4b00-a5d1-2e3c1aed5cd6)
+
+
 The instructions on how to use the packages, its functions and respective arguments can be found on this link: https://csdaw.github.io/ggprism/
 
 To cite this software use this please:
